@@ -1,9 +1,9 @@
 <head>
-	<h1>  GoStack - FastFeet API</h1>
+	<h1>  GoStack - FASTFEET API</h1>
 </head>
 <body>
 	<p align="center">
-  <img src="logo.png" width="150" title="Go Barber">
+  <img src="logo.png" width="350" title="Go Barber">
 </p>
 <div>
   
