@@ -14,7 +14,7 @@
    - Clone code - "git clone url_repository" .
    - Running "yarn" in path .
    - Create instances docker: 
-        - `Postgres:` docker run --name INSTANCE_NAME -e POSTGRES_PASSWORD==PASS -p 5432:5432 -d postgres:11
+        - `Postgres:` docker run --name INSTANCE_NAME -e POSTGRES_PASSWORD=PASS -p 5432:5432 -d postgres:11
         - `MongoDB:` docker run --name INSTANCE_NAME -p 27017:27017 -d -t mongo
         - `Redis:` docker run --name INSTANCE_NAME -p 6379:6379 -d -t redis:alpine
    - For better structuring of the code used, such as editor, editor configuration and deletion, installation of plugins in Vscode.
